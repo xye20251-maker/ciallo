@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.RikkaPet" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFF3E0</item>
+        <item name="android:windowBackground">@color/ic_launcher_background</item>
+    </style>
+</resources>
